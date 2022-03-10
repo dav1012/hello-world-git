@@ -96,6 +96,17 @@ export  $initHighlight;
 | Tomas | Tompson  |  324343   |
 
 
+# Citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+
+> Esto es una cita
+
+Esto es otro texto que no pertenece a la cita anterior:
+> Estos es otra cita
+
+
+
 
 
 
